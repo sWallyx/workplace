@@ -8,3 +8,9 @@ Script to start the custom workspace I work with.
 
 Need a hotkey to the fullscreen event in iTerm.
 Preferences >> Keys >> + >> Toggle Fullscreen = Ctr + Shift + f
+
+
+### Notes / Things to find / Learn
+* Do I really need Python?
+* How to trigger hotkeys
+* Target window from bash
