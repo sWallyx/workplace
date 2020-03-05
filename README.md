@@ -10,7 +10,7 @@ Need a hotkey to the fullscreen event in iTerm.
 Preferences >> Keys >> + >> Toggle Fullscreen = Ctr + Shift + f
 
 ### Modules needed
-  * xdotoll
+* xdotoll
 ´´´ bash
 brew install xdotool
 ´´´
